@@ -1,6 +1,6 @@
 {
-  "name": "ng-dynamic-component",
-  "version": "0.0.0-semantically-released",
+  "name": "@herdwatch/ng-dynamic-component",
+  "version": "10.7.0-dev.2",
   "author": "Alex Malkevich <malkevich.alex@gmail.com>",
   "license": "MIT",
   "repository": {
